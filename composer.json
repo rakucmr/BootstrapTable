@@ -1,0 +1,14 @@
+{
+  "name": "wyb/bootstraptable",
+  "description": "PHP library which wraps around the BootstrapTable (https://bootstrap-table.com)",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "BootstrapTable": "src/WYB/BootstrapTable"
+    }
+  }
+}
